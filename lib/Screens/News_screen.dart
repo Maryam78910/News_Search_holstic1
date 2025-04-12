@@ -24,6 +24,7 @@ class NewsPage extends StatelessWidget {
             value.fetchnewsdata(category);
             return Center(child: CircularProgressIndicator(),);
           }//mmmmm
+        //akbkbjbkdfdff
         else
           {
             return ListView.separated(
